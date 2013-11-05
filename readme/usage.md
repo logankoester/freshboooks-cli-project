@@ -1,0 +1,2 @@
+    --list, -l - Display a full list of projects
+    --help, -h - Display this message
