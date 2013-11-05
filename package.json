@@ -1,6 +1,6 @@
 {
   "name": "freshbooks-cli-project",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A command-line interface for interacting with FreshBooks Projects",
   "main": "index.js",
   "directories": {
