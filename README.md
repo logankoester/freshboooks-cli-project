@@ -1,7 +1,7 @@
 # freshbooks-cli-project 
 [![Build Status](https://secure.travis-ci.org/logankoester/freshbooks-cli-project.png?branch=master)](http://travis-ci.org/logankoester/freshbooks-cli-project)
 
-> Interact with FreshBooks Projects
+> A command-line interface for interacting with FreshBooks Projects
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # freshbooks-project 
 
-> Interact with FreshBooks Projects
+> A command-line interface for interacting with FreshBooks Projects
 
 ## Usage
 
