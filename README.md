@@ -1,7 +1,9 @@
-# freshbooks-cli-project 
-[![Build Status](https://secure.travis-ci.org/logankoester/freshbooks-cli-project.png?branch=master)](http://travis-ci.org/logankoester/freshbooks-cli-project)
-
+# FreshBooks: CLI Project
 > A command-line interface for interacting with FreshBooks Projects
+
+[![Build Status](http://ci.ldk.io/logankoester/freshboooks-cli-project/badge)](http://ci.ldk.io/logankoester/freshboooks-cli-project/)
+[![status](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-project/badges/status.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-project)
+[![Gittip](http://img.shields.io/gittip/logankoester.png)](https://www.gittip.com/logankoester/)
 
 ## Overview
 
@@ -54,3 +56,10 @@ Copyright (c) 2013 Logan Koester
 Licensed under the MIT license.
 
 
+[![xrefs](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-project/badges/xrefs.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-project)
+[![funcs](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-project/badges/funcs.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-project)
+[![top func](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-project/badges/top-func.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-project)
+[![library users](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-project/badges/library-users.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-project)
+[![authors](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-project/badges/authors.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-project)
+[![Total views](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-project/counters/views.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-project)
+[![Views in the last 24 hours](https://sourcegraph.com/api/repos/github.com/logankoester/freshboooks-cli-project/counters/views-24h.png)](https://sourcegraph.com/github.com/logankoester/freshboooks-cli-project)
